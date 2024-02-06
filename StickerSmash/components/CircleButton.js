@@ -28,4 +28,4 @@ const styles = StyleSheet.create({
         borderRadius: 42,
         backgroundColor: '#fff',
     },
-})
+});
